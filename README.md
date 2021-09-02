@@ -1,7 +1,6 @@
 - 👋 Olá, sou @eduuarrdo
 - 👀 Experiência em C, HTML5 e CSS
 - 🌱 Curso o 3º período de ADS na FAETERJ
-- 💞️ Estou ainda nos primeiros passos aqui e tentando me aprimorar nesta rede
 - Contato:  edusb1613@gmail.com
 
 <!---
