@@ -1,6 +1,6 @@
 
 ## 👋 Olá, sou *Eduardo Barbosa*, 24 <br>
-:arrow_double_up: Tenho experiência em C, HTML5, CSS e estou me aprimorando em PHP e SQL! <br>
+:arrow_double_up: Tenho experiência em C, HTML5, CSS e estou me aprimorando também em PHP e SQL! <br>
 :computer: Estou cursando o 3º período de Análise e Desenvolvimento de Sistemas na FAETERJ <br>
 
 <div style="display: inline_block"><br>
