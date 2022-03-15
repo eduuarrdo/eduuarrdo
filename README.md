@@ -1,6 +1,6 @@
 
 ## 👋 Olá, sou *Eduardo Barbosa*, 24 <br>
-:arrow_double_up: Tenho experiência em C, e Front-End  <br>
+:arrow_double_up: Tenho experiência em C e Front-End  <br>
 :computer: Cursando o 4º período de Análise e Desenvolvimento de Sistemas na FAETERJ <br>
 
 <div style="display: inline_block"><br>
