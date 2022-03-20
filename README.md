@@ -1,7 +1,7 @@
 
 ## 👋 Olá, sou *Eduardo Barbosa*, 24 <br>
-:arrow_double_up: Tenho experiência em C e Front-End  <br>
-:computer: Cursando o 4º período de Análise e Desenvolvimento de Sistemas na FAETERJ <br>
+:arrow_double_up: Tenho conhecimento em C, HTML5, CSS <br>
+:computer: Cursando o 4º período de Análise e Desenvolvimento de Sistemas <br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
