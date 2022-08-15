@@ -1,5 +1,5 @@
 
-## 👋 Olá, sou *Eduardo Santos*, 24 <br>
+## 👋 Olá, sou *Eduardo Barbosa*, 25 <br>
 :arrow_double_up: Tenho conhecimentos básicos em C, HTML5, CSS, Redes e tópicos em Segurança da Informação. <br>
 :computer: Cursando o 4º período de Análise e Desenvolvimento de Sistemas <br>
 
