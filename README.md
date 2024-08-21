@@ -2,7 +2,7 @@
 ## 👋 Olá, sou *Eduardo Barbosa*, 25 <br>
 :arrow_double_up: Tenho conhecimentos em C, HTML5, CSS, PHP, JAVA, Redes e tópicos em Segurança da Informação. <br>
 :computer: Graduando em Análise e Desenvolvimento de Sistemas <br>
-
+:cloud: 🔌 Assistente de Infraestrutura de Redes
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
