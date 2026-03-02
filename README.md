@@ -1,5 +1,5 @@
 
-## 👋 Olá, sou *Eduardo Barbosa* <br>
+## 👋 Olá, sou *Eduardo Santos* <br>
 :arrow_double_up: Tenho conhecimentos em C, HTML5, CSS, PHP, JAVA, Redes e tópicos em Segurança da Informação. <br>
 :computer: Graduando em Análise e Desenvolvimento de Sistemas <br>
 :cloud: 🔌 Assistente de Infraestrutura de Redes
