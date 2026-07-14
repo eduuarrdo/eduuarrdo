@@ -1,6 +1,6 @@
 
 ## 👋 Olá, sou *Eduardo Santos* <br>
-:arrow_double_up: Tenho conhecimentos em C, HTML5, CSS, PHP, JAVA, Redes e tópicos em Segurança da Informação. <br>
+:arrow_double_up: Tenho conhecimentos em C, HTML5, TAILWIND CSS, PHP, JAVA, REACT JAVASCRIPT, Redes, Infraestrura de Redes e tópicos em Segurança da Informação. <br>
 :computer: Graduando em Análise e Desenvolvimento de Sistemas <br>
 :cloud: 🔌 Assistente de Infraestrutura de Redes
 <div style="display: inline_block"><br>
